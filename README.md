@@ -59,14 +59,14 @@ TuneTrack analyzes your listening history to uncover insights like:
 
 Insight                             |             What It Reveals About You
 -------------------------------------------------------------------------------------------------
-🎵Most Played Artists                            The voices you keep coming back to
-🎼Favorite Genres                                The world you live in when nobody's watching
-🌅Peak Listening Hours                           When music matters most to you
-😊Mood Patterns                                  How your emotions shape your playlist
-📅Listening Consistency                          The rhythm of your daily life
-🔥Music Streaks                                  How deeply music is woven into your routine
-🎧Recently Played Tracks                         The story of your last few days
-📊Personalized Analytics                         Your complete musical identity, visualized
+* 🎵Most Played Artists            :                The voices you keep coming back to
+* 🎼Favorite Genres                :                The world you live in when nobody's watching
+* 🌅Peak Listening Hours           :                When music matters most to you
+* 😊Mood Patterns                  :                How your emotions shape your playlist
+* 📅Listening Consistency          :                The rhythm of your daily life
+* 🔥Music Streaks                  :                How deeply music is woven into your routine
+* 🎧Recently Played Tracks         :                The story of your last few days
+* 📊Personalized Analytics         :                Your complete musical identity, visualized
 
 
 ## 🚀 Features
