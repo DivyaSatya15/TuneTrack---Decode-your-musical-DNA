@@ -108,7 +108,7 @@ genres ────────────────────────�
 
 * 7 core tables:
 
-* Table                                  Purpose
+ Table                 |                  Purpose
 * users                :                  Secure multi-user authentication
 * artists              :                  Every unique artist in the dataset
 * genres               :                  Master genre list
@@ -116,7 +116,6 @@ genres ────────────────────────�
 * tracks               :                  Songs with popularity score, release year, duration
 * listening_history    :                  Every play event — the core analytics table
 * user_moods           :                  Mood tags per play — unique to TuneTrack
-
 
 What makes this design stand out:
 
